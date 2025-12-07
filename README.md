@@ -26,7 +26,6 @@ O **Trinity Quantum Memory System** é um framework inovador que implementa mem�
 
 ### Pré-requisitos
 
-```bash
 Python 3.8 ou superior
 pip 20.0 ou superior
 ```
