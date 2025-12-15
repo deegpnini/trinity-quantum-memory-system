@@ -26,6 +26,10 @@ O **Trinity Quantum Memory System** é um framework inovador que implementa mem�
 
 ### Pré-requisitos
 
-Python 3.8 ou superior
-pip 20.0 ou superior
+Para começar, certifique-se de ter o Python 3.8+ e o pip 20.0+ instalados.
+
+Instale as dependências principais com o seguinte comando:
+
+```bash
+pip install qiskit numpy scipy
 ```
